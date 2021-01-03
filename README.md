@@ -2,10 +2,9 @@
 
 <!--
 **Blogher/Blogher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-Here are some ideas to get you started:
-#### I'm Bidemi
+Here are some ideas to get you started:-->
+### I'm Bidemi
 - 🔭 I’m currently working on Windows Servers and Microsoft Azure;
 - 🌱 I’m currently learning C# and .NET;
 <!-- - 👯 I’m looking to collaborate on ; -->
