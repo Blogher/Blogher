@@ -12,6 +12,6 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: Twitter: @Blogher_ 
 - 😄 Pronouns: She/Her🧕;
 - ⚡ Fun fact: I wanna learn so many things at a time, I am learning to take it one at a time;
-- ✍🏼 I love to write, check out my blog - blogher.tech
+- ✍🏼 I love to write, check out my blog - blog.blogher.tech
 
 <!-- - 👯 I’m looking to collaborate on ; -->
